@@ -211,3 +211,4 @@ if PLANT_DATA and all_selected:
 elif not all_selected:
     st.info("모든 질문에 답변을 선택해주세요.") 
 ```
+
